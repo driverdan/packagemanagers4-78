@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT packagemanagers4_78.wsgi:application
